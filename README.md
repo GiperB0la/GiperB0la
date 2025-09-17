@@ -7,7 +7,7 @@
 ### 🚀 About me
 - 🛠️ I build projects in **C++**.
 - ⚡ Passionate about low-level stuff: networking, protocols, IOCP, async sockets.
-- 🎮 Love writing my own engines, messengers, and fun experiments.
+- 🎮 I like to write network and desktop applications and experiment.
 
 ---
 
