@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giperbola
 
-💻 C++ developer | Systems & Networking enthusiast | SFML addict
+💻 C++ developer
 
 ---
 
