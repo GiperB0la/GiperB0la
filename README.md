@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Egor (aka GiperB0la)
+# 👋 Hi, I'm Giperbola
 
 💻 C++ developer | Systems & Networking enthusiast | SFML addict
 
 ---
 
 ### 🚀 About me
-- 🛠️ I build projects in **C++**, **Java**, and experiment with **OpenGL/Qt**.
+- 🛠️ I build projects in **C++**.
 - ⚡ Passionate about low-level stuff: networking, protocols, IOCP, async sockets.
 - 🎮 Love writing my own engines, messengers, and fun experiments.
 
 ---
 
 ### 🔥 Featured Projects
-- 💬 [**GiperbolaBook**](https://github.com/GiperB0la/GiperbolaBook) — online messenger (C++, IOCP, SFML).
+- 💬 [**GiperbolaBook**](https://github.com/GiperB0la/GiperbolaBook) — online messenger (C++, IOCP).
 - 🖥️ [**GiperbolaDesk**](https://github.com/GiperB0la/GiperbolaDesk) — remote desktop over UDP.
-- 📂 [**Remote File Manager**](https://github.com/GiperB0la/Dropbox) — client for managing files on a remote server.
+- 📂 [**Dropbox**](https://github.com/GiperB0la/Dropbox) — client for managing files on a remote server.
 
 ---
 
@@ -30,5 +30,4 @@
 ---
 
 ### 🌐 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle-blue?logo=telegram)](https://t.me/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle-blue?logo=telegram)]([https://t.me/yourhandle](https://t.me/Giperbola_10))
