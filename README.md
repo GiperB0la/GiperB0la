@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Egor (aka GiperB0la)
 
-<!--
-**GiperB0la/GiperB0la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C++ developer | Systems & Networking enthusiast | SFML addict
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+- 🛠️ I build projects in **C++**, **Java**, and experiment with **OpenGL/Qt**.
+- ⚡ Passionate about low-level stuff: networking, protocols, IOCP, async sockets.
+- 🎮 Love writing my own engines, messengers, and fun experiments.
+
+---
+
+### 🔥 Featured Projects
+- 💬 [**GiperbolaBook**](https://github.com/GiperB0la/GiperbolaBook) — online messenger (C++, IOCP, SFML).
+- 🖥️ [**GiperbolaDesk**](https://github.com/GiperB0la/GiperbolaDesk) — remote desktop over UDP.
+- 📂 [**Remote File Manager**](https://github.com/GiperB0la/Dropbox) — client for managing files on a remote server.
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=GiperB0la&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiperB0la&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=GiperB0la&theme=onedark)
+
+---
+
+### 🌐 Connect
+[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle-blue?logo=telegram)](https://t.me/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
