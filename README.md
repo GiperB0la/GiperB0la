@@ -30,4 +30,4 @@
 ---
 
 ### 🌐 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle-blue?logo=telegram)]([https://t.me/yourhandle](https://t.me/Giperbola_10))
+[![Telegram](https://img.shields.io/badge/Telegram-@Giperbola_10-blue?logo=telegram)]([https://t.me/yourhandle](https://t.me/Giperbola_10))
