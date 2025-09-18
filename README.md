@@ -95,12 +95,5 @@ I’m **Giperbola** — a developer who likes to fight with:
 
 ---
 
-### 🔭 Current Focus
-- 📡 Building a message queue broker in C++  
-- 🖥️ Experimenting with OpenGL for a 3D engine  
-- 📚 Diving deeper into network protocols  
-
----
-
 ### 🌐 Connect
 [![Telegram](https://img.shields.io/badge/Telegram-@Giperbola_10-blue?logo=telegram)](https://t.me/Giperbola_10)
