@@ -1,41 +1,4 @@
-<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Градиент для фона -->
-    <linearGradient id="bg-gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-
-    <!-- Градиент для текста -->
-    <linearGradient id="text-gradient" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3B82F6"/>
-      <stop offset="100%" stop-color="#06b6d4"/>
-    </linearGradient>
-
-    <!-- Неоновая подсветка -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Фон -->
-  <rect width="800" height="200" fill="url(#bg-gradient)"/>
-
-  <!-- Текст -->
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="Consolas, monospace"
-        font-size="72"
-        fill="url(#text-gradient)"
-        filter="url(#glow)">
-    Giperbola
-  </text>
-</svg>
-
+![Giperbola Logo](Logo.png)
 
 # 👋 Hi, I'm Giperbola
 
