@@ -1,4 +1,4 @@
-![Giperbola Banner](./banner.svg)
+![Giperbola Banner](./logo.svg)
 
 # 👋 Hi, I'm Giperbola
 
