@@ -17,6 +17,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![MSVC](https://img.shields.io/badge/MSVC-68217A?logo=visualstudio&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-003366?logo=protocol&logoColor=white)
+![Network](https://img.shields.io/badge/Network-228B22?logo=ethernet&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-333333?logo=databricks&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop-444444?logo=windows-terminal&logoColor=white)
 
