@@ -1,4 +1,6 @@
-![Giperbola Banner](./banner.svg)
+<p align="center">
+  <img src="./banner.svg" alt="Giperbola Banner" width="800"/>
+</p>
 
 # 👋 Hi, I'm Giperbola
 
