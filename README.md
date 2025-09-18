@@ -21,7 +21,6 @@
 ![Multithreading](https://img.shields.io/badge/Multithreading-6A5ACD?logo=openmp&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-008080?logo=databricks&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-333333?logo=databricks&logoColor=white)
-![Desktop](https://img.shields.io/badge/Desktop-444444?logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
