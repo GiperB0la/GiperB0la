@@ -66,7 +66,7 @@ I’m **Giperbola** — a developer who likes to fight with:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/GiperB0la/Tetris">
-        <img src="https://img.icons8.com/fluency/96/tetris.png" width="60"/><br/>
+        <img src="[https://img.icons8.com/fluency/96/tetris.png](https://img.icons8.com/fluency/96/controller.png)" width="60"/><br/>
         <b>Tetris</b>
       </a>
       <p>🎮 Classic Tetris with custom UI</p>
@@ -76,7 +76,7 @@ I’m **Giperbola** — a developer who likes to fight with:
         <img src="https://img.icons8.com/fluency/96/electronics.png" width="60"/><br/>
         <b>Logisim</b>
       </a>
-      <p>⚡ Digital circuit simulator</p>
+      <p>🔌 Digital circuit simulator</p>
     </td>
   </tr>
 </table>
