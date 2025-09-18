@@ -10,7 +10,7 @@ I’m **Giperbola** — a developer who likes to fight with:
 - 🛠️ **C++** at its sharpest edges  
 - 🌐 **networking** (TCP/IP, async sockets, IOCP)  
 - 🖥️ **desktop apps** with custom UI  
-- 🚀 and whatever looks impossible at first glance
+- 🚀 and whatever looks impossible at first glance  
 
 > “If there’s no library for it, I’ll just write my own.”
 
@@ -31,12 +31,55 @@ I’m **Giperbola** — a developer who likes to fight with:
 ---
 
 ### 🔥 Featured Projects
-- 💬 [**GiperbolaBook**](https://github.com/GiperB0la/GiperbolaBook) — online messenger.  
-- 🖥️ [**GiperbolaDesk**](https://github.com/GiperB0la/GiperbolaDesk) — remote desktop over UDP.  
-- 📂 [**Dropbox**](https://github.com/GiperB0la/Dropbox) — client for managing files on a remote server.  
-- 🚀 [**CustomSTL**](https://github.com/GiperB0la/CustomSTL) — implementation of STL-like containers and smart pointers in C++.  
-- 🎮 [**Tetris**](https://github.com/GiperB0la/Tetris) — classic Tetris game with custom UI.  
-- ⚡ [**Logisim**](https://github.com/GiperB0la/Logisim) — digital circuit simulator with custom desktop UI.  
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/GiperB0la/GiperbolaBook">
+        <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
+        <b>GiperbolaBook</b>
+      </a>
+      <p>💬 Online messenger with custom protocol</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/GiperB0la/GiperbolaDesk">
+        <img src="https://img.icons8.com/fluency/96/monitor.png" width="60"/><br/>
+        <b>GiperbolaDesk</b>
+      </a>
+      <p>🖥️ Remote desktop app over UDP</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/GiperB0la/Dropbox">
+        <img src="https://img.icons8.com/fluency/96/folder-invoices.png" width="60"/><br/>
+        <b>Dropbox</b>
+      </a>
+      <p>📂 Remote file manager</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/GiperB0la/CustomSTL">
+        <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
+        <b>CustomSTL</b>
+      </a>
+      <p>🚀 Reimplementation of STL containers</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/GiperB0la/Tetris">
+        <img src="https://img.icons8.com/fluency/96/tetris.png" width="60"/><br/>
+        <b>Tetris</b>
+      </a>
+      <p>🎮 Classic Tetris with custom UI</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/GiperB0la/Logisim">
+        <img src="https://img.icons8.com/fluency/96/electronics.png" width="60"/><br/>
+        <b>Logisim</b>
+      </a>
+      <p>⚡ Digital circuit simulator</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -49,6 +92,13 @@ I’m **Giperbola** — a developer who likes to fight with:
 
 ### 🏆 Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=GiperB0la&theme=onedark)
+
+---
+
+### 🔭 Current Focus
+- 📡 Building a message queue broker in C++  
+- 🖥️ Experimenting with OpenGL for a 3D engine  
+- 📚 Diving deeper into network protocols  
 
 ---
 
