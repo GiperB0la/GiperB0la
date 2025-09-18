@@ -15,6 +15,8 @@
 - 💬 [**GiperbolaBook**](https://github.com/GiperB0la/GiperbolaBook) — online messenger.
 - 🖥️ [**GiperbolaDesk**](https://github.com/GiperB0la/GiperbolaDesk) — remote desktop over UDP.
 - 📂 [**Dropbox**](https://github.com/GiperB0la/Dropbox) — client for managing files on a remote server.
+- 🚀 [**CustomSTL**](https://github.com/GiperB0la/CustomSTL) —
+- 🎮 [**Tetris**](https://github.com/GiperB0la/Tetris) —
 
 ---
 
