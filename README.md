@@ -17,7 +17,7 @@
 - 📂 [**Dropbox**](https://github.com/GiperB0la/Dropbox) — client for managing files on a remote server.  
 - 🚀 [**CustomSTL**](https://github.com/GiperB0la/CustomSTL) — implementation of STL-like containers and smart pointers in C++.  
 - 🎮 [**Tetris**](https://github.com/GiperB0la/Tetris) — classic Tetris game built with UI.  
-- ⚡ [**Logosm**](https://github.com/GiperB0la/Logisim) — digital circuit simulator with based UI. 
+- ⚡ [**Logisim**](https://github.com/GiperB0la/Logisim) — digital circuit simulator with based UI. 
 
 ---
 
