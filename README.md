@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Giperbola&fontSize=40&fontAlign=50&fontAlignY=30" />
+</p>
+
 # 👋 Hi, I'm Giperbola
 
 💻 C++ developer
