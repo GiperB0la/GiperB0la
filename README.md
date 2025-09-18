@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/GiperB0la">
-    <img src="./banner.svg" alt="Giperbola Banner" width="800"/>
+    <img src="./banner.svgf" alt="Giperbola Banner" width="800"/>
   </a>
 </p>
 
