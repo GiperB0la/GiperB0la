@@ -4,16 +4,15 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Giperbola
+# ⚡ Welcome, traveler
 
-💻 C++ developer
+I’m **Giperbola** — a developer who likes to fight with:  
+- 🛠️ **C++** at its sharpest edges  
+- 🌐 **networking** (TCP/IP, async sockets, IOCP)  
+- 🖥️ **desktop apps** with custom UI  
+- 🚀 and whatever looks impossible at first glance
 
----
-
-### 🚀 About me
-- 🛠️ I build projects in **C++**.  
-- ⚡ Passionate about low-level stuff: networking, protocols, async sockets, IOCP.  
-- 🖥️ I like to create desktop apps and experiment with custom implementations.  
+> “If there’s no library for it, I’ll just write my own.”
 
 ---
 
