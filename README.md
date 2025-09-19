@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Welcome, traveler!
+# Welcome!
 
 I’m **Giperbola** — a developer who likes to fight with:  
 - 🛠️ **C++** at its sharpest edges  
