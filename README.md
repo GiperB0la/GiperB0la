@@ -35,6 +35,13 @@ I’m **Giperbola** — a developer who likes to fight with:
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://github.com/GiperB0la/GiperbolaOS">
+        <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
+        <b>GiperbolaBook</b>
+      </a>
+      <p>💬 Online messenger with custom protocol</p>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/GiperB0la/GiperbolaBook">
         <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
         <b>GiperbolaBook</b>
