@@ -33,18 +33,6 @@ I’m **Giperbola** — a developer who likes to fight with:
 ### 🔥 Featured Projects
 
 <div align="center">
-
-   <!-- Большой блок для ОС -->
-  <a href="https://github.com/GiperB0la/GiperbolaOS" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/96/chip.png" width="100"/><br/>
-    <h2>🚀 GiperbolaOS</h2>
-    <p><b>Custom Operating System</b></p>
-  </a>
-  
-  <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSDev-critical?logo=linux&logoColor=white"/>
-
-  <!-- Остальные проекты в сетке -->
   <table>
     <tr>
       <td align="center" width="33%">
