@@ -32,69 +32,68 @@ I’m **Giperbola** — a developer who likes to fight with:
 
 ### 🔥 Featured Projects
 
-<table>
-  <tr>
-    <!-- GiperbolaOS — выделяем -->
-    <td align="center" width="25%" style="border: 2px solid #ff4757; border-radius: 10px; padding: 15px; background-color: #fff5f5;">
-      <a href="https://github.com/GiperB0la/GiperbolaOS">
-        <img src="https://img.icons8.com/fluency/96/chip.png" width="70"/><br/>
-        <b style="font-size: 18px;">🚀 GiperbolaOS</b>
-      </a>
-      <p><b>💻 Custom Operating System</b></p>
-      <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/OSDev-red?logo=linux&logoColor=white" />
-    </td>
+<div align="center">
 
-    <td align="center" width="25%">
-      <a href="https://github.com/GiperB0la/GiperbolaBook">
-        <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
-        <b>GiperbolaBook</b>
-      </a>
-      <p>💬 Online messenger with custom protocol</p>
-    </td>
+  <!-- ОС — выделенный блок -->
+  <a href="https://github.com/GiperB0la/GiperbolaOS">
+    <img src="https://img.icons8.com/fluency/96/chip.png" width="100"/>
+    <h2>🚀 GiperbolaOS</h2>
+  </a>
+  <p><b>Custom Operating System</b></p>
+  <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSDev-critical?logo=linux&logoColor=white"/>
+  <br/><br/>
 
-    <td align="center" width="25%">
-      <a href="https://github.com/GiperB0la/GiperbolaDesk">
-        <img src="https://img.icons8.com/fluency/96/monitor.png" width="60"/><br/>
-        <b>GiperbolaDesk</b>
-      </a>
-      <p>🖥️ Remote desktop app over UDP</p>
-    </td>
-
-    <td align="center" width="25%">
-      <a href="https://github.com/GiperB0la/Dropbox">
-        <img src="https://img.icons8.com/fluency/96/folder-invoices.png" width="60"/><br/>
-        <b>Dropbox</b>
-      </a>
-      <p>📂 Remote file manager</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/GiperB0la/CustomSTL">
-        <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
-        <b>CustomSTL</b>
-      </a>
-      <p>🚀 Reimplementation of STL containers</p>
-    </td>
-
-    <td align="center" width="25%">
-      <a href="https://github.com/GiperB0la/Tetris">
-        <img src="https://img.icons8.com/fluency/96/controller.png" width="60"/><br/>
-        <b>Tetris</b>
-      </a>
-      <p>🎮 Classic Tetris with custom UI</p>
-    </td>
-
-    <td align="center" width="25%">
-      <a href="https://github.com/GiperB0la/Logisim">
-        <img src="https://img.icons8.com/fluency/96/electronics.png" width="60"/><br/>
-        <b>Logisim</b>
-      </a>
-      <p>🔌 Digital circuit simulator</p>
-    </td>
-  </tr>
-</table>
+  <!-- Остальные проекты в сетке -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/GiperB0la/GiperbolaBook">
+          <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
+          <b>GiperbolaBook</b>
+        </a>
+        <p>💬 Messenger with custom protocol</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GiperB0la/GiperbolaDesk">
+          <img src="https://img.icons8.com/fluency/96/monitor.png" width="60"/><br/>
+          <b>GiperbolaDesk</b>
+        </a>
+        <p>🖥️ Remote desktop app over UDP</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GiperB0la/Dropbox">
+          <img src="https://img.icons8.com/fluency/96/folder-invoices.png" width="60"/><br/>
+          <b>Dropbox</b>
+        </a>
+        <p>📂 Remote file manager</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/GiperB0la/CustomSTL">
+          <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
+          <b>CustomSTL</b>
+        </a>
+        <p>🚀 Reimplementation of STL containers</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GiperB0la/Tetris">
+          <img src="https://img.icons8.com/fluency/96/controller.png" width="60"/><br/>
+          <b>Tetris</b>
+        </a>
+        <p>🎮 Classic Tetris with custom UI</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GiperB0la/Logisim">
+          <img src="https://img.icons8.com/fluency/96/electronics.png" width="60"/><br/>
+          <b>Logisim</b>
+        </a>
+        <p>🔌 Digital circuit simulator</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
