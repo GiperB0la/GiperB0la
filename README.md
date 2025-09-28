@@ -34,15 +34,15 @@ I’m **Giperbola** — a developer who likes to fight with:
 
 <div align="center">
 
-  <!-- ОС — выделенный блок -->
-  <a href="https://github.com/GiperB0la/GiperbolaOS">
-    <img src="https://img.icons8.com/fluency/96/chip.png" width="100"/>
-    <h2>GiperbolaOS</h2>
+   <!-- Большой блок для ОС -->
+  <a href="https://github.com/GiperB0la/GiperbolaOS" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/96/chip.png" width="100"/><br/>
+    <h2>🚀 GiperbolaOS</h2>
+    <p><b>Custom Operating System</b></p>
   </a>
-  <p><b>Custom Operating System</b></p>
+  
   <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/OSDev-critical?logo=linux&logoColor=white"/>
-  <br/><br/>
 
   <!-- Остальные проекты в сетке -->
   <table>
