@@ -81,9 +81,20 @@ I’m **Giperbola** — a developer who likes to fight with:
       </td>
     </tr>
   </table>
+
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="100%" style="border: 2px solid #ff4500; border-radius: 10px; padding: 10px; background: #fff7f5;">
+        <a href="https://github.com/GiperB0la/GiperbolaOS">
+          <img src="https://img.icons8.com/fluency/96/chip.png" width="70"/><br/>
+          <b style="font-size: 1.2em; color: #ff4500;">🔥 GiperbolaOS</b>
+        </a>
+        <p><b>⚙️ Hobby Operating System from scratch</b></p>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 ---
 
 ### 📊 GitHub Stats
