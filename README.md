@@ -37,7 +37,7 @@ I’m **Giperbola** — a developer who likes to fight with:
   <!-- ОС — выделенный блок -->
   <a href="https://github.com/GiperB0la/GiperbolaOS">
     <img src="https://img.icons8.com/fluency/96/chip.png" width="100"/>
-    <h2>🚀 GiperbolaOS</h2>
+    <h2>GiperbolaOS</h2>
   </a>
   <p><b>Custom Operating System</b></p>
   <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white"/>
