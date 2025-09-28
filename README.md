@@ -37,9 +37,9 @@ I’m **Giperbola** — a developer who likes to fight with:
     <td align="center" width="33%">
       <a href="https://github.com/GiperB0la/GiperbolaOS">
         <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
-        <b>GiperbolaBook</b>
+        <b>GiperbolaOS</b>
       </a>
-      <p>💬 Online messenger with custom protocol</p>
+      <p>💬 Operation system</p>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/GiperB0la/GiperbolaBook">
