@@ -110,4 +110,4 @@ I’m **Giperbola** — a developer who likes to fight with:
 ---
 
 ### 🌐 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-@Giperbola_10-blue?logo=telegram)](https://t.me/Giperbola_10)
+[![Telegram](https://img.shields.io/badge/Telegram-@Giperbooola-blue?logo=telegram)](https://t.me/Giperbooola)
