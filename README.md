@@ -106,8 +106,3 @@ I’m **Giperbola** — a developer who likes to fight with:
 
 ### 🏆 Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=GiperB0la&theme=onedark)
-
----
-
-### 🌐 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-@Giperbooola-blue?logo=telegram)](https://t.me/Giperbooola)
