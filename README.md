@@ -4,105 +4,198 @@
   </a>
 </p>
 
-# Welcome!
+<h1 align="center">Hi, I'm Giperbola 👋</h1>
 
-I’m **Giperbola** — a developer who likes to fight with:  
-- 🛠️ **C++** at its sharpest edges  
-- 🌐 **networking** (TCP/IP, async sockets, IOCP)  
-- 🖥️ **desktop apps** with custom UI  
-- 🚀 and whatever looks impossible at first glance  
-
-> “If there’s no library for it, I’ll just write my own.”
+<p align="center">
+  C++ Developer • Systems Programming • Networking • Embedded
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![MSVC](https://img.shields.io/badge/MSVC-68217A?logo=visualstudio&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-003366?logo=protocol&logoColor=white)
-![Network](https://img.shields.io/badge/Network-228B22?logo=ethernet&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading-6A5ACD?logo=openmp&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-008080?logo=databricks&logoColor=white)
-![UI](https://img.shields.io/badge/UI-333333?logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 🚀 About Me
+
+I'm **Giperbola**, a developer focused on building things from the ground up.
+
+I enjoy working close to the metal:
+
+- ⚙️ **Modern C++** and system-level programming
+- 🌐 **Networking** (TCP/IP, UDP, async I/O, custom protocols)
+- 🖥️ **Desktop applications** with custom interfaces
+- 🔌 **Embedded systems** and hardware communication
+- 🧩 Designing solutions where existing tools are not enough
+
+> "If there is no suitable tool, build one."
 
 ---
 
-### 🔥 Featured Projects
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=directx&logoColor=white"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+# 🔥 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100%" style="border: 2px solid #ff4500; border-radius: 10px; padding: 10px; background: #fff7f5;">
-        <a href="https://github.com/GiperB0la/GiperbolaOS">
-          <img src="https://img.icons8.com/fluency/96/chip.png" width="70"/><br/>
-          <b style="font-size: 1.2em; color: #ff4500;">GiperbolaOS</b>
-        </a>
-        <p><b>⚙️ Hobby Operating System from scratch</b></p>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/GiperB0la/GiperbolaBook">
-          <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
-          <b>GiperbolaBook</b>
-        </a>
-        <p>💬 Messenger with custom protocol</p>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/GiperB0la/GiperbolaDesk">
-          <img src="https://img.icons8.com/fluency/96/monitor.png" width="60"/><br/>
-          <b>GiperbolaDesk</b>
-        </a>
-        <p>🖥️ Remote desktop app over UDP</p>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/GiperB0la/Dropbox">
-          <img src="https://img.icons8.com/fluency/96/folder-invoices.png" width="60"/><br/>
-          <b>Dropbox</b>
-        </a>
-        <p>📂 Remote file manager</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/GiperB0la/CustomSTL">
-          <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
-          <b>CustomSTL</b>
-        </a>
-        <p>🚀 Reimplementation of STL containers</p>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/GiperB0la/Tetris">
-          <img src="https://img.icons8.com/fluency/96/controller.png" width="60"/><br/>
-          <b>Tetris</b>
-        </a>
-        <p>🎮 Classic Tetris with custom UI</p>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/GiperB0la/Logisim">
-          <img src="https://img.icons8.com/fluency/96/electronics.png" width="60"/><br/>
-          <b>Logisim</b>
-        </a>
-        <p>🔌 Digital circuit simulator</p>
-      </td>
-    </tr>
-  </table>
-  <br/>
+
+<table>
+<tr>
+
+<td align="center" width="100%">
+<a href="https://github.com/GiperB0la/GiperbolaOS">
+<img src="https://img.icons8.com/fluency/96/chip.png" width="70"/><br/>
+<b>GiperbolaOS</b>
+</a>
+
+<p>
+⚙️ Hobby operating system built from scratch
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+<a href="https://github.com/GiperB0la/GiperbolaBook">
+<img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
+<b>GiperbolaBook</b>
+</a>
+
+<p>
+💬 Messenger with custom network protocol
+</p>
+
+</td>
+
+
+<td align="center" width="33%">
+<a href="https://github.com/GiperB0la/GiperbolaDesk">
+<img src="https://img.icons8.com/fluency/96/monitor.png" width="60"/><br/>
+<b>GiperbolaDesk</b>
+</a>
+
+<p>
+🖥️ Remote desktop application over UDP
+</p>
+
+</td>
+
+
+<td align="center" width="33%">
+<a href="https://github.com/GiperB0la/Dropbox">
+<img src="https://img.icons8.com/fluency/96/folder-invoices.png" width="60"/><br/>
+<b>Dropbox</b>
+</a>
+
+<p>
+📂 Remote file management system
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td align="center" width="33%">
+<a href="https://github.com/GiperB0la/CustomSTL">
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
+<b>CustomSTL</b>
+</a>
+
+<p>
+🚀 Custom implementation of STL containers
+</p>
+
+</td>
+
+
+<td align="center" width="33%">
+<a href="https://github.com/GiperB0la/GieprbolaPack">
+<img src="https://img.icons8.com/fluency/96/package.png" width="60"/><br/>
+<b>GiperbolaPack</b>
+</a>
+
+<p>
+📦 Custom libraries and reusable C++ components
+</p>
+
+</td>
+
+
+<td align="center" width="33%">
+<a href="https://github.com/GiperB0la/TreeEditor">
+<img src="https://img.icons8.com/fluency/96/tree-structure.png" width="60"/><br/>
+<b>TreeEditor</b>
+</a>
+
+<p>
+🌳 Tree editor built with modern Qt architecture
+</p>
+
+</td>
+
+
+</tr>
+
+</table>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=GiperB0la&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiperB0la&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiperB0la&theme=tokyonight)
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GiperB0la&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiperB0la&layout=compact&theme=dark"/>
+</p>
 
 ---
 
-### 🏆 Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=GiperB0la&theme=onedark)
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GiperB0la&theme=dark"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building software, breaking things, fixing them again.</i>
+</p>
