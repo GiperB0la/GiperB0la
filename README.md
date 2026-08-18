@@ -254,10 +254,11 @@ Experience with:
 
 </tr>
 
-
 </table>
 
 </div>
+
+---
 
 # 🧠 Current Focus
 
@@ -272,7 +273,7 @@ Experience with:
 # 📌 What I Build
 
 | Area | Technologies |
-|---|---|
+| --- | --- |
 | Desktop Applications | Qt, QML, Qt Widgets |
 | Networking | TCP/IP, UDP, Boost.Asio |
 | Embedded | ARM Cortex-M, CAN, UART |
