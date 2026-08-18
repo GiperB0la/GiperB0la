@@ -152,7 +152,7 @@ Experience with:
 
 <td align="center" width="50%">
 
-<a href="[https://github.com/GiperB0la/GiperbolaBook](https://github.com/GiperB0la/GiperbolaBook)">
+<a href="https://github.com/GiperB0la/GiperbolaBook">
 
 <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/>
 
@@ -171,7 +171,7 @@ Experience with:
 
 <td align="center" width="50%">
 
-<a href="[https://github.com/GiperB0la/GiperbolaDesk](https://github.com/GiperB0la/GiperbolaDesk)">
+<a href="https://github.com/GiperB0la/GiperbolaDesk">
 
 <img src="https://img.icons8.com/fluency/96/monitor.png" width="60"/>
 
@@ -194,7 +194,7 @@ Experience with:
 
 <td align="center" width="50%">
 
-<a href="[https://github.com/GiperB0la/Dropbox](https://github.com/GiperB0la/Dropbox)">
+<a href="https://github.com/GiperB0la/Dropbox">
 
 <img src="https://img.icons8.com/fluency/96/folder-invoices.png" width="60"/>
 
@@ -213,7 +213,7 @@ Experience with:
 
 <td align="center" width="50%">
 
-<a href="[https://github.com/GiperB0la/CustomSTL](https://github.com/GiperB0la/CustomSTL)">
+<a href="https://github.com/GiperB0la/CustomSTL">
 
 <img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
 
