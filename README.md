@@ -1,3 +1,80 @@
+<p align="center">
+  <a href="https://github.com/GiperB0la">
+    <img src="./banner.svg" alt="Giperbola Banner" width="800"/>
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm Giperbola 👋</h1>
+
+<p align="center">
+  C++ Developer • Qt • Systems Programming • Networking • Embedded
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm **Giperbola**, a developer focused on building software from the ground up.
+
+My main interests:
+
+- ⚙️ **Modern C++** and system-level programming
+- 🖥️ **Desktop applications** with Qt and QML
+- 🌐 **Networking** and custom communication protocols
+- 🔌 **Embedded systems** and hardware interaction
+- 🏗️ Software architecture and low-level development
+
+> "If there is no suitable tool, build one."
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
+</p>
+
+---
+
+## Frameworks & Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=directx&logoColor=white"/>
+</p>
+
+---
+
+## Qt Development
+
+Experience with:
+
+- 🖥️ Qt Widgets desktop applications
+- 🌳 Qt Model/View architecture
+- 🔄 Signal/slot based architecture
+- 🎨 Custom UI components
+- 📱 QML interfaces
+- 🧩 Reusable Qt/QML components and libraries
+
+---
+
+## Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
 # 🔥 Featured Projects
 
 <div align="center">
@@ -185,3 +262,55 @@
 </table>
 
 </div>
+
+---
+
+# 🧠 Current Focus
+
+- ⚙️ Modern C++ development
+- 🖥️ Qt Widgets and QML applications
+- 🌐 Network programming and custom protocols
+- 🔌 Embedded systems and CAN communication
+- 🏗️ Software architecture and scalable systems
+
+---
+
+# 📌 What I Build
+
+| Area | Technologies |
+| --- | --- |
+| Desktop Applications | Qt, QML, Qt Widgets |
+| Networking | TCP/IP, UDP, Boost.Asio |
+| Embedded | ARM Cortex-M, CAN, UART |
+| Systems | C++, CMake, Linux |
+| Graphics | OpenGL, DirectX |
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiperB0la&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+<p>
+
+Telegram: **@Giperbooola**
+
+Email: **giperbola.cpp@gmail.com**
+
+GitHub: **https://github.com/GiperB0la**
+
+</p>
+
+---
+
+<p align="center">
+<i>Building software from low-level systems to user interfaces.</i>
+</p>
