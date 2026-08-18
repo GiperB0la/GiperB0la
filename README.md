@@ -196,7 +196,7 @@ Experience with:
 
 <a href="https://github.com/GiperB0la/Dropbox">
 
-<img src="https://img.icons8.com/fluency/96/folder.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/opened-folder.png" width="60"/>
 
 <br/>
 
