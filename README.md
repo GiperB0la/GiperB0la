@@ -103,14 +103,13 @@ Experience with:
 
 </table>
 
-
 <table>
 
 <tr>
 
 <td align="center" width="50%">
 
-<a href="https://github.com/GiperB0la/GieprbolaPack">
+<a href="https://github.com/GiperB0la/GiperbolaPack">
 
 <img src="https://img.icons8.com/fluency/96/package.png" width="60"/>
 
@@ -125,7 +124,6 @@ Experience with:
 </p>
 
 </td>
-
 
 <td align="center" width="50%">
 
@@ -168,7 +166,6 @@ Experience with:
 
 </td>
 
-
 <td align="center" width="50%">
 
 <a href="https://github.com/GiperB0la/GiperbolaDesk">
@@ -210,7 +207,6 @@ Experience with:
 
 </td>
 
-
 <td align="center" width="50%">
 
 <a href="https://github.com/GiperB0la/CustomSTL">
@@ -231,13 +227,6 @@ Experience with:
 
 </tr>
 
-</td>
-
-<td align="center" width="50%">
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -265,11 +254,10 @@ Experience with:
 
 </tr>
 
+
 </table>
 
 </div>
-
----
 
 # 🧠 Current Focus
 
