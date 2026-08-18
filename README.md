@@ -231,6 +231,32 @@ Experience with:
 
 </tr>
 
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/GiperB0la/BrokerQueue">
+
+<img src="https://img.icons8.com/fluency/96/queue.png" width="60"/>
+
+<br/>
+
+<b>BrokerQueue</b>
+
+</a>
+
+<p>
+📨 High-performance message broker and queue system in modern C++
+</p>
+
+</td>
+
+<td align="center" width="50%">
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
