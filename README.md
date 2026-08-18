@@ -7,22 +7,22 @@
 <h1 align="center">Hi, I'm Giperbola 👋</h1>
 
 <p align="center">
-  C++ Developer • Systems Programming • Networking • Embedded
+  C++ Developer • Systems Programming • Networking • Embedded • Qt
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Giperbola**, a developer focused on building things from the ground up.
+I'm **Giperbola**, a developer focused on building software from the ground up.
 
-I enjoy working close to the metal:
+My main interests are:
 
-- ⚙️ **Modern C++** and system-level programming
+- ⚙️ **Modern C++** and low-level programming
 - 🌐 **Networking** (TCP/IP, UDP, async I/O, custom protocols)
-- 🖥️ **Desktop applications** with custom interfaces
-- 🔌 **Embedded systems** and hardware communication
-- 🧩 Designing solutions where existing tools are not enough
+- 🖥️ **Desktop applications** with Qt and custom UI systems
+- 🔌 **Embedded development** and hardware communication
+- 🧩 Creating solutions where existing tools are not enough
 
 > "If there is no suitable tool, build one."
 
@@ -47,6 +47,14 @@ I enjoy working close to the metal:
 <img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=directx&logoColor=white"/>
 </p>
 
+### Qt Development
+
+- 🖥️ Desktop applications with **Qt Widgets**
+- 🌳 Custom models using **Qt Model/View architecture**
+- 🔄 Signal/slot based application architecture
+- 🎨 Custom UI components
+- 📱 QML experiments and modern Qt interfaces
+
 ### Tools & Technologies
 
 <p>
@@ -63,9 +71,10 @@ I enjoy working close to the metal:
 <div align="center">
 
 <table>
-<tr>
 
+<tr>
 <td align="center" width="100%">
+
 <a href="https://github.com/GiperB0la/GiperbolaOS">
 <img src="https://img.icons8.com/fluency/96/chip.png" width="70"/><br/>
 <b>GiperbolaOS</b>
@@ -76,8 +85,8 @@ I enjoy working close to the metal:
 </p>
 
 </td>
-
 </tr>
+
 </table>
 
 
@@ -85,7 +94,8 @@ I enjoy working close to the metal:
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
+
 <a href="https://github.com/GiperB0la/GiperbolaBook">
 <img src="https://img.icons8.com/fluency/96/chat.png" width="60"/><br/>
 <b>GiperbolaBook</b>
@@ -98,7 +108,8 @@ I enjoy working close to the metal:
 </td>
 
 
-<td align="center" width="33%">
+<td align="center" width="50%">
+
 <a href="https://github.com/GiperB0la/GiperbolaDesk">
 <img src="https://img.icons8.com/fluency/96/monitor.png" width="60"/><br/>
 <b>GiperbolaDesk</b>
@@ -110,8 +121,13 @@ I enjoy working close to the metal:
 
 </td>
 
+</tr>
 
-<td align="center" width="33%">
+
+<tr>
+
+<td align="center" width="50%">
+
 <a href="https://github.com/GiperB0la/Dropbox">
 <img src="https://img.icons8.com/fluency/96/folder-invoices.png" width="60"/><br/>
 <b>Dropbox</b>
@@ -123,13 +139,9 @@ I enjoy working close to the metal:
 
 </td>
 
-</tr>
 
+<td align="center" width="50%">
 
-<tr>
-
-
-<td align="center" width="33%">
 <a href="https://github.com/GiperB0la/CustomSTL">
 <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
 <b>CustomSTL</b>
@@ -141,32 +153,37 @@ I enjoy working close to the metal:
 
 </td>
 
+</tr>
 
-<td align="center" width="33%">
-<a href="https://github.com/GiperB0la/GieprbolaPack">
+
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/GiperB0la/GiperbolaPack">
 <img src="https://img.icons8.com/fluency/96/package.png" width="60"/><br/>
 <b>GiperbolaPack</b>
 </a>
 
 <p>
-📦 Custom libraries and reusable C++ components
+📦 Collection of custom C++ libraries and utilities
 </p>
 
 </td>
 
 
-<td align="center" width="33%">
+<td align="center" width="50%">
+
 <a href="https://github.com/GiperB0la/TreeEditor">
 <img src="https://img.icons8.com/fluency/96/tree-structure.png" width="60"/><br/>
 <b>TreeEditor</b>
 </a>
 
 <p>
-🌳 Tree editor built with modern Qt architecture
+🌳 Qt application based on Model/View architecture
 </p>
 
 </td>
-
 
 </tr>
 
@@ -197,5 +214,5 @@ I enjoy working close to the metal:
 ---
 
 <p align="center">
-  <i>Building software, breaking things, fixing them again.</i>
+<i>Building software, breaking things, fixing them again.</i>
 </p>
