@@ -110,7 +110,7 @@ Experience with:
 
 <td align="center" width="50%">
 
-<a href="https://github.com/GiperB0la/GiperbolaPack">
+<a href="https://github.com/GiperB0la/GieprbolaPack">
 
 <img src="https://img.icons8.com/fluency/96/package.png" width="60"/>
 
