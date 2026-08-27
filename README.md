@@ -33,9 +33,9 @@ My main interests:
 ## Languages
 
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
 </p>
 
 ---
@@ -43,10 +43,10 @@ My main interests:
 ## Frameworks & Libraries
 
 <p>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
-<img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=directx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=directx&logoColor=white"/>
 </p>
 
 ---
@@ -67,10 +67,10 @@ Experience with:
 ## Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
@@ -102,7 +102,6 @@ Experience with:
 </tr>
 
 </table>
-
 
 <table>
 
@@ -255,6 +254,20 @@ Experience with:
 
 <td align="center" width="50%">
 
+<a href="https://github.com/GiperB0la/thread-pool">
+
+<img src="https://img.icons8.com/fluency/96/settings.png" width="60"/>
+
+<br/>
+
+<b>thread_pool</b>
+
+</a>
+
+<p>
+⚙️ Lightweight C++20 thread pool with std::future support
+</p>
+
 </td>
 
 </tr>
@@ -288,5 +301,5 @@ Experience with:
 ---
 
 <p align="center">
-<i>Building software from low-level systems to user interfaces.</i>
+  <i>Building software from low-level systems to user interfaces.</i>
 </p>
