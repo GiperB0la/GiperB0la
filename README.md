@@ -287,30 +287,6 @@ Experience with:
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiperB0la&theme=github-dark"/>
-
-</p>
-
----
-
-# 📫 Contact
-
-<p>
-
-Telegram: **@Giperbooola**
-
-Email: **giperbola.cpp@gmail.com**
-
-GitHub: **https://github.com/GiperB0la**
-
-</p>
-
----
-
 <p align="center">
 <i>Building software from low-level systems to user interfaces.</i>
 </p>
